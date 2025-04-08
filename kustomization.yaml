@@ -1,0 +1,4 @@
+resources:
+  - namespaces/dev-namespace.yaml
+  - rbac/dev-role.yaml
+  - rbac/dev-rolebinding.yaml
