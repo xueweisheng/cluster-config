@@ -1,4 +1,6 @@
-apiVersion: v1.0.1
+
+#add testing code for snyc
+apiVersion: v1
 kind: Namespace
 metadata:
   name: dev
