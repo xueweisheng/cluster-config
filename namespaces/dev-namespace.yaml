@@ -6,3 +6,4 @@ metadata:
   name: dev
   labels:
     environment: development
+    owner: platform-team
