@@ -1,6 +1,5 @@
 resources:
   - namespaces/dev-namespace.yaml
   - namespaces/qa-namespace.yaml
-  - namespaces/prod-namespace.yaml
   - rbac/dev-role.yaml
   - rbac/dev-rolebinding.yaml
